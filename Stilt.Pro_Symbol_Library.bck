@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AUTOMOTIVE_STD_RELAY_SPST
+D Standex Meder DIP reed relay, SPDT
+K Single Pole Reed Relay SPDT
+F https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf
+$ENDCMP
+#
+#End Doc Library
